@@ -1,0 +1,15 @@
+.EmployeeSignup {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+    height: 70vh;
+  }
+  
+  .signup-heading {
+    margin-bottom: 20px; 
+  }
+  .signup-button {
+    margin-top: 20px;
+  }
+  
